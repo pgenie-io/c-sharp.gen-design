@@ -13,6 +13,7 @@ obj/
 *.user
 *.suo
 *.userprefs
+*.sln
 
 # OS
 .DS_Store
